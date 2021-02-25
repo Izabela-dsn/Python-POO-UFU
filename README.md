@@ -1,3 +1,4 @@
-# Python and Csharp POO
----> Atividades e trabalhos feitos em Python e C# Orientados a objetos
----> WARNING: Pode conter erros 
+# Python - POO/UFU :book: :computer:
+
+* Atividades e trabalhos feitos em Python Orientado a Objeto.
+* :warning: Pode conter erros 
